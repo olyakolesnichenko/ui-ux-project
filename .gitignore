@@ -1,0 +1,15 @@
+# == Core ==
+
+node_modules/
+
+# == JetBrains ==
+
+.idea/
+src/assets
+# == macOS ==
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+

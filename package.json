@@ -1,0 +1,25 @@
+{
+  "name": "ui-ux-project",
+  "version": "1.0.0",
+  "description": "my ui-ux project",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "gulp",
+    "build": "gulp build"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^7.1.1",
+    "browser-sync": "^2.18.12",
+    "del": "^3.0.0",
+    "gulp": "^4.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-postcss": "^7.0.0",
+    "gulp-clean-css": "latest",
+    "gulp-sourcemaps": "latest",
+    "gulp-stylus": "^2.6.0",
+    "gulp-watch": "^4.3.11",
+    "postcss-cssnext": "^2.11.0"
+  }
+}
